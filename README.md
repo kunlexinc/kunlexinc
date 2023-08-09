@@ -39,10 +39,28 @@
 
 <h3> React Native Projects:</h3>
 
-- <b>Cloning Of Nike Mobile App</b>
-  - [Praciting DS & Algos in Python](https://github.com/kunlexinc/NikeAPP)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>[Cloning Of Nike Mobile App](https://github.com/kunlexinc/NikeAPP) </b>
+  - Implementation of Redux
+  - Adding of Cart feature
+  - Smooth React Navigation
+  - Advanced Search Option
+  - Push Notifications
+    
+- <b>[Weathelo](https://github.com/kunlexinc/WeatherApp)</b>
+  - Current location weather forcast
+  - Time of Sunrise and Sunset
+  - Predictions About The Rainfall
+  - Consuming of <b>openweathermap</b> api
+  - Map About Climatic Conditions
+ 
+- <b>[Charis Healing App](https://github.com/kunlexinc/charisHealing)</b>
+  - A therapy counselling App
+  - Chat Feature
+  - Firebase
+  - Payment Integrtaion
+  - Online Doctors
+ 
+    
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
