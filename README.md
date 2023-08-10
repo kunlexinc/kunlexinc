@@ -37,7 +37,7 @@
 
 
 
-<h3> React Native Projects:</h3>
+<h3> React Native Projects Mobile:</h3>
 
 - <b>[Cloning Of Nike Mobile App](https://github.com/kunlexinc/NikeAPP) </b>
   - Implementation of Redux
@@ -60,26 +60,55 @@
   - Payment Integrtaion
   - Online Doctors
  
-    
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h3> React Projects FrontEnd:</h3>
+
+- <b>[Foodstation](https://github.com/kunlexinc/Food-ordering-App)</b>
+  - Built with React js
+  - Implemented With Redux
+  - Payment Integration
+  - Passing Data to Components
+  - Passing Children Updating the State
+  - Lifting the State Up
+  - Stateless Functional Components
+  - Lifecycle Hooks
+ 
+- <b>[CodeWithKunle](https://github.com/kunlexinc/Codewithkunle)</b>
+  - Built with React js and Ant Design
+  - Implemented With Redux
+  - Payment Integration with Flutterwave
+  - Firebase
+  - Lifting the State Up
+  - Stateless Functional Components
+  - Lifecycle Hooks
+ 
+- <b>[Portfolio Website](https://github.com/kunlexinc/myportfolio)</b>
+  - Built with React js 
+  - Firebase
+  - emailJS
+  - Lifting the State Up
+  - Stateless Functional Components
+  - Lifecycle Hooks
+
+
+- <b>[Expense Tracker](https://github.com/kunlexinc/Expense-Tracking-App)</b>
+  - Built with React js 
+  - redux
+  - Lifting the State Up
+  - Stateless Functional Components
+  - Lifecycle Hooks
+
+
+<h3> Sprind Boot Project BackEnd:</h3>
+
+- <b>[Schedule Manager With Spring MVC] (https://github.com/kunlexinc/SpringMVC-Schedule-Manager-App)</b>
+  - RequestMapping
+  - Controller
+  - Hibernate
+ 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
