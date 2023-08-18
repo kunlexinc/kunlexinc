@@ -72,6 +72,17 @@
   - Lifting the State Up
   - Stateless Functional Components
   - Lifecycle Hooks
+
+- <b>[Professional Admin Dashboard](https://github.com/kunlexinc/AdminDashboard)</b>
+  - Built with React js
+  - Styling with material Ui
+  - Data Grid
+  - fomik
+  - Passing Data to Components
+  - Passing Children Updating the State
+  - Lifting the State Up
+  - Stateless Functional Components
+  - Lifecycle Hooks
  
 - <b>[CodeWithKunle](https://github.com/kunlexinc/Codewithkunle)</b>
   - Built with React js and Ant Design
