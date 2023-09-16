@@ -39,6 +39,14 @@
 
 <h3> React Native Projects Mobile:</h3>
 
+
+
+- <b>[Cloning Of WhatsApp](https://github.com/kunlexinc/WhatsAPPClone) </b>
+  - Implementation of Redux
+  - Smooth React Navigation
+  - Advanced Search Option
+  - Push Notifications
+    
 - <b>[Cloning Of Nike Mobile App](https://github.com/kunlexinc/NikeAPP) </b>
   - Implementation of Redux
   - Adding of Cart feature
