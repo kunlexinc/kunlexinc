@@ -46,7 +46,7 @@
   - Advanced Search Option
   - Push Notifications
 
-  - <b>[Wordleton Game](https://github.com/kunlexinc/Wordleton-Game) </b>
+- <b>[Wordleton Game](https://github.com/kunlexinc/Wordleton-Game)</b>
   - save current progress in AsyncStorage, so that if you close the application in the middle of the game, and then relaunch, you continue from where you started. This will prevent cheating.
   - If you add a big dataset of words, you can also check if the entered word is a valid word.
   - Animations
